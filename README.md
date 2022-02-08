@@ -62,5 +62,5 @@ ex) cd network_homework/2018_FTP/
 
 * 서버 및 클라이언트 실행
 ex) ./server 50000
-    ./client
+./client
 
