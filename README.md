@@ -34,11 +34,10 @@
 >> 실행
 >><br>-Ctrl + alt + t를 눌러 터미널창 하나를 활성화하여 명령어를 입력하여 실행한다
 >><br>-활성화된 터미널에서 cd 명령어로 서버와 클라이언트 실행파일이 존재하는 디렉토리로 이동한다.
->><br>ex) cd ./client {server_ip} {ftp_server_port}
+>><br>ex) cd network_homework/2018_FTP
 >>
 >>-서버 및 클라이언트 실행
->><br>ex) ./server 50000
->><br>./client
+>><br>ex) ./client {server_ip} {ftp_server_port}
 >>> 프로그래밍 언어는 자신이 편한 언어를 선택하며 정해진 규칙에 맞게끔 작성하여 제출하도록 한다.
 ### Rule
 ##### File
